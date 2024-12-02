@@ -1,0 +1,1 @@
+Sistema CRM criado para gerenciar tabelas clientes, produtos e vendas
